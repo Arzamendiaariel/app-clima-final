@@ -1,0 +1,24 @@
+:root {
+  --color-maximum-red: #d62828;
+  --color-prussian-blue: #023047; 
+
+  --btn-danger-color: var(--color-maximum-red);
+  --btn-color: var(--color-prussian-blue);
+}
+
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
